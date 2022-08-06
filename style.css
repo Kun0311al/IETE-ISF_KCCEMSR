@@ -104,6 +104,17 @@
     text-align: left;
     font-size: 18px;
 }
+
+/*upcoming events*/
+.events{
+    background-color: #E8EDE0;
+}
+.events h1{
+    text-align: center;
+    padding: 30px;
+}
+
+
 /*footer links*/
 /* .column {
     float: left;
