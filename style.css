@@ -73,4 +73,15 @@
 /*greating*/
 .greating{
     background-image: url(asssets/photo.jpeg);
+    background-size: cover;
+}
+.great-all{
+    padding: 100px;
+}
+.btn-me{
+    background-color: aquamarine;
+    border: 0px;
+    padding: 17px;
+    margin-top: 40px;
+    border-radius: 10px;
 }
