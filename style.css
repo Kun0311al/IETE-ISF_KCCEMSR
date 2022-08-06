@@ -69,3 +69,8 @@
    .services:hover .dropdown {
     display: block;
    }
+
+/*greating*/
+.greating{
+    background-image: url(asssets/photo.jpeg);
+}
