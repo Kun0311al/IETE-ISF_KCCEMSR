@@ -104,3 +104,32 @@
     text-align: left;
     font-size: 18px;
 }
+/*footer links*/
+/* .column {
+    float: left;
+    width: 27%;
+   height: 300px;
+}
+.ft-link{
+    font-size:20px;
+    font-weight:bold;
+} */
+
+/*cont-link*/
+.cont-link{
+    text-align: center;
+    padding: 30px;
+}
+.cont-link a{
+    padding-top: 50px;
+    color: black;
+    font-size: 28px;
+}
+
+/*footer*/
+.footer {  
+    background-color: #535557;  
+    color: white;  
+    text-align: center; 
+    padding: 10px; 
+}
