@@ -85,3 +85,11 @@
     margin-top: 40px;
     border-radius: 10px;
 }
+
+/*about container*/
+.container{
+    text-align: center;
+    padding: 60px;
+    font-size: 40px;
+    background-color: #ECEFE7;
+}
